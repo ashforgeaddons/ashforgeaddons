@@ -1,3 +1,3 @@
 # AshForge Addons Website
 
-Upload these files to the root of the `ashforge` GitHub repository.
+Upload the contents of this ZIP to the root of your `ashforge` repository.
