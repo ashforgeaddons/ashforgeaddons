@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="18" y="18" width="476" height="476" rx="56" fill="#101014" stroke="#ff8810" stroke-width="18"/>
+<path d="M266 78 C208 143 190 202 218 263 C178 242 158 200 170 158 C118 238 144 324 224 356 C302 388 374 332 366 247 C343 281 315 298 284 291 C329 240 323 151 266 78Z" fill="#ff7a00"/>
+<path d="M286 146 C246 200 238 251 262 316 C302 288 332 241 286 146Z" fill="#f6f7fb" opacity=".95"/>
+<text x="256" y="430" font-size="54" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" fill="#f6f7fb">RNLA</text>
+</svg>

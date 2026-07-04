@@ -1,2 +1,3 @@
-# AshForge Addons
-Official website for the AshForge Addons web browser extensions collection.
+# AshForge Addons Website
+
+Upload these files to the root of the `ashforge` GitHub repository.
